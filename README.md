@@ -4,6 +4,8 @@ This project is an application to allow 2 users to barter with each other for ar
 
 <img width="717" alt="Screen Shot 2021-11-21 at 12 28 33 PM" src="https://user-images.githubusercontent.com/17352012/143093211-739cd21c-46eb-43fb-a985-8d0559da2065.png">
 
+This project was built for a [hackathon](https://web3jam.ethglobal.com/)! 
+
 
 ## Tech Details
 
